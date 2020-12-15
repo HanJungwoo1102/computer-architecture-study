@@ -299,6 +299,7 @@
 * Forwarding unit
   * 전방 전달을 할지 말지 어디로 할지 정하는 unit
   * <details><summary>forwading unit 에서 일어나는 일</summary>
+    
     ```
     # EX 해저드 rs
     if (
@@ -345,6 +346,7 @@
   </details>
 
   * <details><summary>상세 설명</summary>
+
     - EX 해저드
     - MEM 해저드
       - ```
